@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "Viral Kohli",
+      "country": "India",
+      "img": "https://i.ibb.co.com/5LC9mVx/pexels-yogendras31-10987827.jpg",
+      "role": "All-Rounder",
+      "batType": "Left-Hand-Bat",
+      "bowlType": "Right-Arm-Medium",
+      "bidPrice": 1500000
+    },
+    {
+      "id": 2,
+      "name": "Chris Dale",
+      "country": "West Indies",
+      "img": "https://i.ibb.co.com/1Qq9ndk/cricket-match-with-player.jpg",
+      "role": "Batsman",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "None",
+      "bidPrice": 1200000
+    },
+    {
+      "id": 3,
+      "name": "Steve Sin",
+      "country": "Australia",
+      "img": "https://i.ibb.co.com/f4mvrHf/pexels-case-originals-3800517.jpg",
+      "role": "Bowler",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Right-Arm-Fast",
+      "bidPrice": 1000000
+    },
+    {
+      "id": 4,
+      "name": "David Wanner",
+      "country": "England",
+      "img": "https://i.ibb.co.com/QKKF9Yh/pexels-case-originals-3657154.jpg",
+      "role": "Wicket-Keeper",
+      "batType": "Left-Hand-Bat",
+      "bowlType": "None",
+      "bidPrice": 900000
+    },
+    {
+      "id": 5,
+      "name": "Ben Stacks",
+      "country": "South Africa",
+      "img": "https://i.ibb.co.com/4mK570z/pexels-case-originals-3628912.jpg",
+      "role": "All-Rounder",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Right-Arm-Medium",
+      "bidPrice": 1100000
+    },
+    {
+      "id": 6,
+      "name": "Shane Mendis",
+      "country": "Sri Lanka",
+      "img": "https://i.ibb.co.com/xfCF3N3/cricket-match-with-player-2.jpg",
+      "role": "Bowler",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Right-Arm-Fast",
+      "bidPrice": 950000
+    },
+    {
+      "id": 7,
+      "name": "Mohammad Amir",
+      "country": "Pakistan",
+      "img": "https://i.ibb.co.com/sPW0tR7/cricket-match-with-player-1.jpg",
+      "role": "Bowler",
+      "batType": "Left-Hand-Bat",
+      "bowlType": "Left-Arm-Fast",
+      "bidPrice": 1300000
+    },
+    {
+      "id": 8,
+      "name": "Jason Holder",
+      "country": "West Indies",
+      "img": "https://i.ibb.co.com/7jp5wHf/pexels-case-originals-28697897.jpg",
+      "role": "All-Rounder",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Right-Arm-Fast",
+      "bidPrice": 1400000
+    },
+    {
+      "id": 9,
+      "name": "Trent Bolt",
+      "country": "New Zealand",
+      "img": "https://i.ibb.co.com/4mK570z/pexels-case-originals-3628912.jpg",
+      "role": "Bowler",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Left-Arm-Fast",
+      "bidPrice": 1250000
+    },
+    {
+      "id": 10,
+      "name": "Rohit Sharna",
+      "country": "India",
+      "img": "https://i.ibb.co.com/QKKF9Yh/pexels-case-originals-3657154.jpg",
+      "role": "Batsman",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "None",
+      "bidPrice": 1450000
+    },
+    {
+      "id": 11,
+      "name": "Kane Wiliamson",
+      "country": "New Zealand",
+      "img": "https://i.ibb.co.com/f4mvrHf/pexels-case-originals-3800517.jpg",
+      "role": "Batsman",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Right-Arm-Offspin",
+      "bidPrice": 1100000
+    },
+    {
+      "id": 12,
+      "name": "Babar Azim",
+      "country": "Pakistan",
+      "img": "https://i.ibb.co.com/1Qq9ndk/cricket-match-with-player.jpg",
+      "role": "Batsman",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "None",
+      "bidPrice": 1400000
+    },
+    {
+      "id": 13,
+      "name": "Quinton de Cock",
+      "country": "South Africa",
+      "img": "https://i.ibb.co.com/7jp5wHf/pexels-case-originals-28697897.jpg",
+      "role": "Wicket-Keeper",
+      "batType": "Left-Hand-Bat",
+      "bowlType": "None",
+      "bidPrice": 1350000
+    },
+    {
+      "id": 14,
+      "name": "Rashid Kahn",
+      "country": "Afghanistan",
+      "img": "https://i.ibb.co.com/ZVmT1v5/pexels-inderjeet-kashyap-101154808-9393464.jpg",
+      "role": "Bowler",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Right-Arm-Legbreak",
+      "bidPrice": 1200000
+    },
+    {
+      "id": 15,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "img": "https://i.ibb.co.com/5LC9mVx/pexels-yogendras31-10987827.jpg",
+      "role": "All-Rounder",
+      "batType": "Right-Hand-Bat",
+      "bowlType": "Right-Arm-Fast",
+      "bidPrice": 1450000
+    }
+  ]
+  
